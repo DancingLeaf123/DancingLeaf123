@@ -12,7 +12,7 @@
 
 <div>
 <a href="https://wakatime.com/@Yeahz">
-  <img align="center" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime/?theme=radical&langs_count=22&layout=compact&username=DancingLeaf123" />
+  <img align="center" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime/?theme=radical&langs_count=22&layout=compact&username=Yeahz" />
 </a>
 </div>
 

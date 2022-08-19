@@ -12,7 +12,7 @@
 
 <div>
 <a href="https://wakatime.com/@DancingLeaf123">
-  <img align="center" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime/?theme=tokyonight&langs_count=22&layout=compact&username=DancingLeaf123" />
+  <img align="center" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime/?theme=radical &langs_count=22&layout=compact&username=DancingLeaf123" />
 </a>
 </div>
 
@@ -23,7 +23,7 @@ Following result is not accurate:
 
 <div>
 <a href="https://wakatime.com/@luochen1990">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=blueberry&username=luochen1990&langs_count=10&layout=compact&card_width=445&exclude_repo=cpython" />
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical &username=luochen1990&langs_count=10&layout=compact&card_width=445&exclude_repo=cpython" />
 </a>
 </div>
 

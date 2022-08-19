@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Kantar
+- 🌱 I’m currently learning C++ python
+
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?theme=blueberry&username=DancingLeaf123&show_icons=true&include_all_commits=true">

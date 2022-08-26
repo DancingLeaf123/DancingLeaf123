@@ -1,6 +1,4 @@
 ### Hi there 👋
-[![wakatime](https://wakatime.com/badge/user/12c146dc-a922-4eb5-a884-3fbe2db8260f.svg)](https://wakatime.com/@12c146dc-a922-4eb5-a884-3fbe2db8260f)
-
 - 🔭 I’m currently working on Kantar
 - 🌱 I’m currently learning C++ python
 
@@ -37,6 +35,8 @@ Theme: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/REA
 
 <!--
 **DancingLeaf123/DancingLeaf123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![wakatime](https://wakatime.com/badge/user/12c146dc-a922-4eb5-a884-3fbe2db8260f.svg)](https://wakatime.com/@12c146dc-a922-4eb5-a884-3fbe2db8260f)
 
 Here are some ideas to get you started:
 

@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Kantar
-- 🌱 I’m currently learning C++ python
+- 🌱 I’m currently learning C++ python VUE3
 
 
 <div>
